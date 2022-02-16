@@ -1,0 +1,19 @@
+.button {
+    &:hover, &:focus {
+      border-color: #1A2B38;
+      background: #1A2B38;
+      color:#fff;
+    }
+    cursor: pointer;
+    background: #4ffcc6;
+    color: #1a2b38;
+    border-color: #4ffcc6;
+    white-space: nowrap;
+    font-weight: 700;
+    height: 48px;
+    line-height: 43px;
+    padding: 0 1.15rem;
+    display: inline-block;
+    border-radius: 60px;
+  
+  }
